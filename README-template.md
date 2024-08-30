@@ -68,8 +68,7 @@ background-position: top right 80px;
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Samritbasnet)
-- Twitter - [@yourusername](https://www.twitter.com/Samritbasnet70)
+- Frontend Mentor - [@SamritBasnet](https://www.frontendmentor.io/profile/Samritbasnet)
+- Twitter - [@Samritbasnet](https://www.twitter.com/Samritbasnet70)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
